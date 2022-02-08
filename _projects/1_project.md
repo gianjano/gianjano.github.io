@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: DIG4Future
+description: Digital competencies, Inclusion and Growth for Future Generations
+img: assets/img/dig4future.jpg
 importance: 1
-category: work
+category: on-going
 ---
 
 Every project has a beautiful feature showcase page.
