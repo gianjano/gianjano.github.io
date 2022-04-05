@@ -2,10 +2,21 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching activities
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Cognitive Ergonomics (6 CFU, 42h) - Lecturer, AYs 2019-2020, 2020-2021, 2021-2022
+MSc course in Human-Computer Interaction, University of Trento, Italy
+• Taught psychology principles in UX design and research
+• Mixed-methods in UX research
 
-Organize your courses by years, topics, or universities, however you like!
+HCI Research in the Wild (4 CFU, 28h) - Lecturer, AY 2018-2019
+BSc course in Interfaces and communications technologies, University of Trento, Italy
+• Taught methods for conducting research "in the wild"
+• Surveys, quantitative UX research and A/B testing
+
+Prototyping Interactive Systems (6 CFU, 42h) - Teaching assistant, AYs 2016-2018
+MSc course in Human-Computer Interaction, University of Trento, Italy 
+• Guided students in using Material design language
+
