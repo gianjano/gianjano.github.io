@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Families_share
+description: Socializing and sharing time for work/life balance through digital and social innovation
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: past
 ---
 
 Every project has a beautiful feature showcase page.
