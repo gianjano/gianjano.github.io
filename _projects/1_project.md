@@ -7,12 +7,12 @@ importance: 1
 category: on-going
 ---
 
+Coordinator: Save the Children Italy (🇮🇹)
+Partners: Salvati Copiii (Romania 🇷🇴), KMOP (Greece 🇬🇷) and Partners Bulgaria (Bulgaria 🇧🇬)
+
 DIG4Future (Digital competencies, Inclusion and Growth for Future generations) is an Erasmus+ KA3 project 
 that aims to improve the digital skills and competences of digitally excluded young people, 
 aged between 11 and 14 years old, who live in disadvantaged urban and rural areas in Italy, Bulgaria, Greece and Romania.
-
-    Coordinator: Save the Children Italy (🇮🇹)
-    Partners: Salvati Copiii (Romania 🇷🇴), KMOP (Greece 🇬🇷) and Partners Bulgaria (Bulgaria 🇧🇬)
 
 <div class="row justify-content-sm-center">
         <div class="col-sm-8 mt-3 mt-md-0">
