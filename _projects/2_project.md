@@ -1,7 +1,7 @@
 ---
 layout: page
 title: StandByMe
-description: Stop gender-based violence by addressing masculinities and changing behaviour of young people through human rights education
+description: Stop gender-based violence through human rights education
 img: assets/img/stopabuse.jpg
 importance: 2
 category: on-going
