@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: StandByMe
+description: Stop gender-based violence by addressing masculinities and changing behaviour of young people through human rights education
+img: assets/img/stopabuse.jpg
 importance: 2
-category: work
+category: on-going
 ---
 
 Every project has a beautiful feature showcase page.
