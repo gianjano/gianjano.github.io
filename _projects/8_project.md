@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Kids Go Green
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: past
+title: project 6
+description: a project with no image
+img:
+importance: 4
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
