@@ -19,6 +19,6 @@ Besides the initial pilot cities, Families\_Share mobile application was also be
         {% include figure.html path="assets/img/families-share.jpg" title="example dig4future image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/fs-logo.jpg" title="dig4future logo image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/FS_logo.jpg" title="Families_share_ logo image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
