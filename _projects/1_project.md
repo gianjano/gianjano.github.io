@@ -19,7 +19,7 @@ aged between 11 and 14 years old, who live in disadvantaged urban and rural area
         {% include figure.html path="assets/img/dig4future.jpg" title="example dig4future image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/dig4future-logo.jpg" title="dig4future logo image" class="img-fluid z-depth-1" %}
+        {% include figure.html path="assets/img/dig4future-logo.jpg" title="dig4future logo image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
