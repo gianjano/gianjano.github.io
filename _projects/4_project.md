@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ecomode
-description: another without an image
+description: Event-Driven compressive vision for multimodal interaction with mobile devices
 img:assets/img/ecomode.jpg
 importance: 3
 category: past
