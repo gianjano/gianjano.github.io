@@ -15,10 +15,10 @@ aged between 11 and 14 years old, who live in disadvantaged urban and rural area
     Partners: Salvati Copiii (Romania 🇷🇴), KMOP (Greece 🇬🇷) and Partners Bulgaria (Bulgaria 🇧🇬)
 
 <div class="row justify-content-sm-center">
-        <div class="mt-2 mt-md-0">
+        <div class="col-sm mt-2 mt-md-0">
         {% include figure.html path="assets/img/dig4future.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-        <div class="mt-2 mt-md-0">
+        <div class="col-sm mt-2 mt-md-0">
         {% include figure.html path="assets/img/dig4future-logo.jpg" title="project logo" class="z-depth-1" %}
     </div>
 </div>
