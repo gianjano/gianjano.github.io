@@ -12,6 +12,9 @@ Lecturer, AYs 2019-2020, 2020-2021, 2021-2022<br>
 <ul>
 <li>Taught psychology principles in UX design and research</li>
 <li>Mixed-methods in UX research</li>
+<li>Surveys and quantitative methods in UX research</li>
+<li>Contextual inquiry and qualitative methods in UX research</li>
+<li>Mixed-methods, triangulation and ethics</li>
 </ul>
 </p>
 
@@ -31,6 +34,7 @@ Teaching assistant, AYs 2016-2018<br>
 <i>MSc course in Human-Computer Interaction, University of Trento, Italy</i>
 <ul>
 <li>Guided students in using Material design language</li>
+<li>Taught Axure RP for prototyping</li>
 </ul>
 </p>
 
