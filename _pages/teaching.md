@@ -22,7 +22,7 @@ Lecturer, AY 2018-2019
 <li>Surveys, quantitative UX research and A/B testing</li>
 </ul>
 
-<h5>Prototyping Interactive Systems (6 CFU, 42h)<h5> 
+<h5>Prototyping Interactive Systems (6 CFU, 42h)</h5> 
 Teaching assistant, AYs 2016-2018
 <span class="emphasized">MSc course in Human-Computer Interaction, University of Trento, Italy</span>
 <ul>
