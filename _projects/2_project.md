@@ -8,7 +8,7 @@ category: on-going
 ---
 
     Coordinator: Amnesty Italy 🇮🇹
-    Partners: University of Trento 🇮🇹, Amnesty Bulgaria 🇧🇬, Amnesty Slovenia 🇸🇮 and Amnesty Poland 🇵🇱
+    Partners: FBK 🇮🇹, University of Trento 🇮🇹, Amnesty Bulgaria 🇧🇬, Amnesty Slovenia 🇸🇮 and Amnesty Poland 🇵🇱
 
 <br>
 The project aims to prevent and combat gender-based violence (including cyber violence) among
