@@ -7,14 +7,13 @@ nav: true
 ---
 <p>
 <b>Design Experience: Cognitive Ergonomics</b><br> 
-Lecturer, AYs 2019-2020, 2020-2021, 2021-2022<br> 
+Lecturer, from AY 2019<br> 
 <i>MSc course in Human-Computer Interaction, University of Trento, Italy</i>
 <ul>
 <li>Taught psychology principles in UX design and research</li>
-<li>Mixed-methods in UX research</li>
-<li>Surveys and quantitative methods in UX research</li>
-<li>Contextual inquiry and qualitative methods in UX research</li>
-<li>Mixed-methods, triangulation and ethics</li>
+<li>Educated students on surveys and quantitative methods in UX research</li>
+<li>Trained students in contextual inquiry and qualitative methods in UX research</li>
+<li>Led lectures on mixed-methods, triangulation, and ethics in HCI/UX research</i>
 </ul>
 </p>
 
@@ -23,8 +22,8 @@ Lecturer, AYs 2019-2020, 2020-2021, 2021-2022<br>
 Lecturer, AY 2018-2019<br> 
 <i>BSc course in Interfaces and communications technologies, University of Trento, Italy</i>
 <ul>
-<li>Taught methods for conducting research "in the wild"</li>
-<li>Surveys, quantitative UX research and A/B testing</li>
+<li>Taught methods for conducting research in real-world settings</li>
+<li>Instructed students on surveys, quantitative UX research, and A/B testing</li>
 </ul>
 </p>
 
