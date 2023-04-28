@@ -16,8 +16,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a User Experience (Ux) researcher with a background in psychology, currently researcher at <a href="https://www.fbk.eu/en/">Fondazione Bruno Kessler – FBK</a>. I received my PhD in Cognitive Science from CIMeC – Center for Mind/Brain Science – University of Trento (Italy) and my MSc in Experimental Psychology from the University of Padova (Italy).
+I am a User Experience (Ux) researcher with a background in psychology, currently researcher at <a href="https://www.fbk.eu/en/">Fondazione Bruno Kessler – FBK</a>. I received my PhD in Cognitive Science from CIMeC – Center for Mind/Brain Science – University of Trento (Italy) and my MSc in Experimental Psychology from the University of Padova (Italy).
 
 My research centers on Human-Computer Interaction (HCI), focusing on the design, development, and evaluation of collaborative, social, and accessible technologies. 
 
-My current research is at the boundary of HCI and artificial intelligence to explore issues surrounding AI literacy and human-AI interaction.
+At present, my research focuses on the integration of HCI and artificial intelligence to explore critical issues surrounding AI literacy and human-AI interaction. As our society becomes increasingly reliant on AI-enabled systems, it is crucial to investigate how individuals perceive, trust, and interact with these systems. My research aims to develop innovative AI-enabled technologies that promote human learning, equity, and social inclusion.
+
+
+
+
+
