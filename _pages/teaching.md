@@ -13,7 +13,7 @@ Lecturer, from AY 2019<br>
 <li>Taught psychology principles in UX design and research</li>
 <li>Educated students on surveys and quantitative methods in UX research</li>
 <li>Trained students in contextual inquiry and qualitative methods in UX research</li>
-<li>Led lectures on mixed-methods, triangulation, and ethics in HCI/UX research</i>
+<li>Led lectures on mixed-methods, triangulation, and ethics in HCI/UX research</li>
 </ul>
 </p>
 
