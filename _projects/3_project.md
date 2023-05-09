@@ -2,7 +2,7 @@
 layout: page
 title: Families_share
 description: Socializing and sharing time for work/life balance through digital and social innovation
-img: assets/img/families-share.jpg
+img: assets/img/families-share.jpeg
 importance: 3
 category: past
 ---
