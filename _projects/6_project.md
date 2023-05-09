@@ -2,7 +2,7 @@
 layout: page
 title: ENCORE
 description: Enriching circular use of OERs for Education
-img: assets/img/encore.png
+img: assets/img/teach-encore.jpg
 importance: 1
 category: on-going
 ---
