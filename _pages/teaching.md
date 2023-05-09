@@ -7,7 +7,7 @@ nav: true
 ---
 <p>
 <b>Design Experience: Cognitive Ergonomics</b><br> 
-Lecturer, from AY 2019<br> 
+Lecturer, from AYs 19/20, 20/21, 21/22, 22/23<br> 
 <i>MSc course in Human-Computer Interaction, University of Trento, Italy</i>
 <ul>
 <li>Taught psychology principles in UX design and research</li>
